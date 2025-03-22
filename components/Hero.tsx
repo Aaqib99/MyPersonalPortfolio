@@ -48,7 +48,7 @@ const Hero = () => {
             Frontend, Backend & UI/UX Designer
           </p>
 
-          <a href="https:www.github.com/Aaqib99" target="_blank"
+          <a href="https://github.com/Aaqib99" target="_blank"
             rel="noopener noreferrer">
             <MagicButton
               title="Show my work"
